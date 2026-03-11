@@ -1,7 +1,11 @@
 <!-- ====== HERO SECTION =================================================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFA6,100:1E90FF&height=230&section=header&text=Karim%20Erradi&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00BFA6&center=true&vCenter=true&width=900&lines=Karim+Erradi;Ing%C3%A9nieur+en+g%C3%A9nie+informatique+%7C+ENSAH;Web+Development+%7C+Cloud+%7C+Networks;Crafting+clean+code+and+useful+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=800&lines=Ing%C3%A9nieur+en+g%C3%A9nie+informatique+%7C+ENSAH;Web+Development+%7C+Cloud+Computing+%7C+Networks;Always+learning%2C+always+building" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -17,7 +21,7 @@
   <a href="https://github.com/karim1609">
     <img src="https://img.shields.io/github/followers/karim1609?label=Suivre&style=social" alt="GitHub Follow" />
   </a>
-  <a href="https://www.linkedin.com/in/Karim Erradi">
+  <a href="https://www.linkedin.com/in/karim-erradi-49a474280">
     <img src="https://img.shields.io/badge/LinkedIn-Karim%20Erradi-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:radikarim352@gmail.com">
@@ -28,7 +32,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/kamranahmedse/profile-readme-generator/master/src/assets/header/wave-bottom.svg" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFA6&height=120&section=footer&animation=twinkling" alt="" width="100%"/>
 
 <!-- ====== QUICK OVERVIEW ================================================= -->
 
@@ -106,6 +110,10 @@
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,ts,html,css,js,laravel,mysql,linux,git,github,vscode&perline=8" alt="Tech stack icons" />
+</p>
+
 <details>
   <summary><b>Focus actuels</b></summary>
   <ul>
@@ -179,7 +187,15 @@
 ## Activité GitHub
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karim1609&theme=dracula&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karim1609&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim1609&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -205,7 +221,7 @@
 ## Contact
 
 - Email :  `radikarim352@gmail.com` 
-- LinkedIn : [`Karim Erradi`](https://www.linkedin.com/in/Karim Erradi)  
+- LinkedIn : [`Karim Erradi`](https://www.linkedin.com/in/karim-erradi-49a474280)  
 
 <br/>
 
