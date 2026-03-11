@@ -1,4 +1,3 @@
-
 <!-- ====== HERO SECTION =================================================== -->
 
 <div align="center">
@@ -9,14 +8,14 @@
 
 <div align="center">
   <!-- Replace this avatar URL with your GitHub avatar if you want -->
-  <img src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" alt="Karim Erradi" width="140" style="border-radius:50%;border:3px solid #00BFA6;box-shadow:0 0 25px rgba(0,191,166,.6);" />
+  <img src="https://avatars.githubusercontent.com/karim1609" alt="Karim Erradi" width="140" style="border-radius:50%;border:3px solid #00BFA6;box-shadow:0 0 25px rgba(0,191,166,.6);" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/karim1609">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Suivre&style=social" alt="GitHub Follow" />
+    <img src="https://img.shields.io/github/followers/karim1609?label=Suivre&style=social" alt="GitHub Follow" />
   </a>
   <a href="https://www.linkedin.com/in/Karim Erradi">
     <img src="https://img.shields.io/badge/LinkedIn-Karim%20Erradi-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
@@ -24,7 +23,7 @@
   <a href="mailto:radikarim352@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-474747?style=flat&logo=gmail" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=karim1609&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <br/>
@@ -129,7 +128,7 @@
 - Architecture MVC Laravel avec validation et gestion des erreurs côté serveur.  
 - Base de données MySQL pensée pour la cohérence, l’intégrité et la performance.  
 <!-- Optionnel : ajoute le lien de ton repo si tu l’as -->
-<!-- [Voir le projet](https://github.com/YOUR_GITHUB_USERNAME/NOM_DU_PROJET) -->
+<!-- [Voir le projet](https://github.com/karim1609/NOM_DU_PROJET) -->
 
 ---
 
@@ -180,15 +179,15 @@
 ## Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karim1609&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karim1609&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karim1609&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
