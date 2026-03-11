@@ -40,6 +40,26 @@
 
 <br/>
 
+<div align="center">
+  <a href="#à-propos">
+    <img src="https://img.shields.io/badge/%F0%9F%91%A4-A%20propos-111827?style=for-the-badge&labelColor=020617" alt="À propos" />
+  </a>
+  <a href="#stack-technique">
+    <img src="https://img.shields.io/badge/%F0%9F%92%A1-Stack%20technique-111827?style=for-the-badge&labelColor=020617" alt="Stack technique" />
+  </a>
+  <a href="#projets-académiques-sélectionnés">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80-Projets-111827?style=for-the-badge&labelColor=020617" alt="Projets" />
+  </a>
+  <a href="#activité-github">
+    <img src="https://img.shields.io/badge/%F0%9F%93%88-Stats-111827?style=for-the-badge&labelColor=020617" alt="Stats GitHub" />
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7-Contact-111827?style=for-the-badge&labelColor=020617" alt="Contact" />
+  </a>
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFA6&height=120&section=footer&animation=twinkling" alt="" width="100%"/>
 
 <!-- ====== QUICK OVERVIEW ================================================= -->
