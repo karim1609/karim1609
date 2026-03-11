@@ -32,6 +32,14 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Étudiant%20Ingénieur%20ENSAH-1E90FF?style=for-the-badge&labelColor=0b0f19" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Dev%20%7C%20Cloud%20%7C%20Réseaux-00BFA6?style=for-the-badge&labelColor=0b0f19" />
+  <img src="https://img.shields.io/badge/Mindset-Learning%20Every%20Day-f97316?style=for-the-badge&labelColor=0b0f19" />
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFA6&height=120&section=footer&animation=twinkling" alt="" width="100%"/>
 
 <!-- ====== QUICK OVERVIEW ================================================= -->
@@ -68,6 +76,35 @@
         <li>Intérêt fort pour le cloud, les réseaux et la cybersécurité.</li>
         <li>Esprit d’équipe et envie de contribuer à des projets open source.</li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ====== NOW SECTION ===================================================== -->
+
+## Ce que je fais en ce moment
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="Web dev gif"/><br/>
+      <b>Front & Backend Web</b>
+      <br/>
+      <sub>Renforcer Laravel, JavaScript et TypeScript à travers des projets concrets.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="160" alt="Cloud gif"/><br/>
+      <b>Cloud & Infrastructure</b>
+      <br/>
+      <sub>Approfondir Oracle Cloud, sécurité, réseaux et bonnes pratiques DevOps.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="160" alt="Learning gif"/><br/>
+      <b>Compétences avancées</b>
+      <br/>
+      <sub>Algorithmique, conception UML, prompts engineering pour développeurs.</sub>
     </td>
   </tr>
 </table>
