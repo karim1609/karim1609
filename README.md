@@ -70,7 +70,7 @@
   <tr>
     <td width="55%" valign="top">
       <p>
-        Étudiant en deuxième année de cycle ingénieur en génie informatique à l’ENSAH,
+        Étudiant en premiere année de cycle ingénieur en génie informatique à l’ENSAH,
         passionné par le développement web, les réseaux et les technologies cloud.
       </p>
       <p>
